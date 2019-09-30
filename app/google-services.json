@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595237810279",
+    "firebase_url": "https://chatapp-7be0d.firebaseio.com",
+    "project_id": "chatapp-7be0d",
+    "storage_bucket": "chatapp-7be0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595237810279:android:167deef236967c050fa4c2",
+        "android_client_info": {
+          "package_name": "com.aizenangel.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595237810279-34qhi63eu20qphgi832fcl37cmmla3bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aizenangel.chatapplication",
+            "certificate_hash": "b93540ee5a706ca1d2525b580d7d354a72d4e8d8"
+          }
+        },
+        {
+          "client_id": "595237810279-vb1rpbk2tu3351ag8l2u5h1tibrcutd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqHNTSeM0W-1EyzWtAYOp64rCJKviYb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595237810279-vb1rpbk2tu3351ag8l2u5h1tibrcutd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
